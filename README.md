@@ -5,7 +5,12 @@ For this class lesson we chose the following case study for its technological va
 [An AI view of the construction site: GOLDBECK and HoloBuilder detect defects using automated documentation with Microsoft Azure](https://www.microsoft.com/en/customers/story/1422938843831293737-goldbeck-HoloBuilder-azure-machine-learning-en#project-details-section)
 
 
-You can watch the visual presentation [here](https://www.canva.com/design/DAGc2rZyDbg/-pCdkbMyhJJkO15DjfP4SQ/edit)
+You can watch the visual presentation [here](https://www.canva.com/design/DAGc2rZyDbg/-pCdkbMyhJJkO15DjfP4SQ/edit).
+![Presentation](images/presentation.jpg "Presentation Slides")
+
+
+You can visit Goldbeck site [here](https://www.goldbeck.de/).
+![Goldbeck](images/goldbeck.jpg "Goldberg front door building")
 
 
 
